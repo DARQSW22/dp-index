@@ -8,7 +8,6 @@
 
 * [Adapter](https://github.com/DARQSW22/dp-adapter)
 * [Facade](https://github.com/DARQSW22/dp-facade)
-* [Singleton](https://github.com/DARQSW22/dp-singleton)
 * [Proxy](https://github.com/DARQSW22/dp-proxy)
 
 ## Conductuales
