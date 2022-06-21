@@ -1,4 +1,4 @@
-# Design Patterns - Index
+# Patrones de Diseño GoF - Índice
 
 ## Creacionales
 * [Singleton](https://github.com/DARQSW22/dp-singleton)
